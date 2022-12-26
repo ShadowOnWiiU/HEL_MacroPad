@@ -4,6 +4,6 @@
 
 Current Look:
 
-![PCB Look Top View](https://cdn.discordapp.com/attachments/420272405123039262/1055169146364633088/image.png)
+![PCB Look Top View](https://cdn.discordapp.com/attachments/642014677811068938/1056906485835243591/image.png)
 
-![PCB Look Bottom View](https://cdn.discordapp.com/attachments/420272405123039262/1055169222390591532/image.png)
+![PCB Look Bottom View](https://cdn.discordapp.com/attachments/642014677811068938/1056906632363253810/image.png)
