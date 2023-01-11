@@ -1,6 +1,6 @@
 # HEL_MacroPad
 
-## Macro Pad der 4AHEL Werkstaette
+## Macro Pad der 4AHEL Werkstaette (images outdated!!)
 
 Current Look:
 
